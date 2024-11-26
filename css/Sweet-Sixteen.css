@@ -1,18 +1,18 @@
 /* style.css */
 
-.halloween {
+.Sam {
     text-align: center; 
     color:rgb(67, 3, 102)
  
 }
-body { background-color: rgb(194, 144, 9);
+body { background-color: rgb(138, 106, 25);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;}
-.colors {color:rgb(36, 0, 56)}
+.colors {color: rgb(85, 8, 8)}
 header {
-    background-color: #b361ff;
-    color: white;
+    background-color:  rgb(138, 106, 25);
+    color: rgb(24, 24, 24);
     padding: 1em;
     text-align: center;
 }
@@ -46,3 +46,4 @@ nav ul {
         width: 100%;
         bottom: 0;
     }
+    .center { text-align: center;}
